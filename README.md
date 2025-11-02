@@ -7,7 +7,7 @@ A sleek and smart **Password Generator** built with **HTML, CSS, and JavaScript*
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="passGenrate.JPG" alt="Password Generator Screenshot" width="600">
+  <img src="passGenrate.JPG" alt="Password Generator Screenshot" >
 </p>
 
 
